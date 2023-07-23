@@ -2,11 +2,11 @@
 module.exports = {
   content: ["*"],
 
-  daisyui: {
-    themes: ["light", "dark", "cupcake"],
-  },
+ 
   theme: {
-    extend: {},
+    extend: {
+      
+    },
   },
   plugins: [],
 }
